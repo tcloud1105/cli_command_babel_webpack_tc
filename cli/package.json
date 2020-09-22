@@ -1,0 +1,18 @@
+{
+  "name": "my_first_project",
+  "version": "1.1.1",
+  "description": "my first npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+	"sayhi":"echo \"Welcome to the world of node js\""
+  },
+  "author": "cedric",
+  "license": "ISC",
+  "dependencies":{
+     "jquery":"^3.2.1"
+  },
+  "devDependencies":{
+    "lodash":"^4.17.4"
+  }
+}
